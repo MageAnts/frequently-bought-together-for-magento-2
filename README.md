@@ -1,5 +1,6 @@
 <body>
 	<main>
+	<meta name="google-site-verification" content="4QndM7ImozIO5_1Daj20sICUTxB47x6qXubvdtok2SM" />
 		<div class="content-wrapper">
 			<div class="content-inner">
 				<h1>Magento 2 Frequently Bought Together</h1>
