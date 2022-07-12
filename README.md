@@ -1,7 +1,6 @@
 <body>
 	<main>
-	<meta name="google-site-verification" content="4QndM7ImozIO5_1Daj20sICUTxB47x6qXubvdtok2SM" />
-		<div class="content-wrapper">
+			<div class="content-wrapper">
 			<div class="content-inner">
 				<h1>Magento 2 Frequently Bought Together</h1>
 				<p>using<a href="https://www.mageants.com/frequently-bought-together-for-magento-2.html">Magento 2 Frequently Bought Together</a> a store owner will suggest products according to their customer interest to the shopping page and boost online store sales.</p>
